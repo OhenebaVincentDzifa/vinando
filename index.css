@@ -1,0 +1,29 @@
+#para1{
+position: relative;
+}
+
+#ham{
+    position:relative ;
+    left: 5%;
+    
+}
+#ham1{
+    position: relative;
+    left: 22%;
+    top: -18px;
+   
+}
+#ham2{position:relative;
+    left:35%;
+    top: -35px;
+}
+#ham3{
+    position: relative;
+    left: 45%;
+    top: -45%;
+}
+
+div{
+    color: green;
+    text-transform: uppercase;
+}
